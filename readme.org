@@ -1,0 +1,4 @@
+#+title: Readme
+
+This is dotfiles for devpod containers
+It was based on - https://github.com/mischavandenburg/dotfiles-devpod
