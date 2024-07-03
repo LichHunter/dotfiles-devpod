@@ -5,6 +5,7 @@
       paths = [
         jdk # for now this will be java21
         maven
+        emacs
       ];
     };
   };
