@@ -12,4 +12,4 @@ ln -sf "$PWD/nix.conf" "$XDG_CONFIG_HOME"/nix/nix.conf
 #nix-env -iA
 
 # install doom emacs
-git clone https://github.com/hlissner/doom-emacs ~/.emacs.d
+git clone https://github.com/hlissner/doom-emacs ~/.config/emacs
